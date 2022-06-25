@@ -1,7 +1,7 @@
 # Simple Calculator Services
 Pada arsitektur ini anda diminta untuk membuat sebuah aplikasi kalkulator sederhana yang menghitung / melakukan kalkulasi yang cukup berat. Oleh karena itu anda diminta untuk membuat sebuah aplikasi asynchronous dengan memanfaatkan teknologi celery.
 ## Request: Mencari bilangan prima yang ke `<index>`
-![GET](https://badgen.net/badge/Method/GET/green)<span style="padding:10px">**/api/prime/`<int:index>`**</span>
+![GET](https://badgen.net/badge/Method/GET/green)**/api/prime/`<int:index>`**
 
 
 ### Responses:
@@ -21,9 +21,8 @@ Pada arsitektur ini anda diminta untuk membuat sebuah aplikasi kalkulator sederh
 }
 ```
 
-<br>
 ## Request: Mencari bilangan prima palindrome ke `<index>`
-![GET](https://badgen.net/badge/Method/GET/green)<span style="padding:10px">**/api/prime/palindrome/`<int:index>`**</span>
+![GET](https://badgen.net/badge/Method/GET/green)**/api/prime/palindrome/`<int:index>`**
 
 
 ### Responses:
