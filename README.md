@@ -42,3 +42,8 @@ Pada arsitektur ini anda diminta untuk membuat sebuah aplikasi kalkulator sederh
     "message": "Not found"
 }
 ```
+
+## Environment
+* python 3.9.7
+* nameko 2.14.1
+* celery 5.2.7
